@@ -7,6 +7,13 @@ public class Q4 {
 		Scanner sc =new Scanner(System.in);
 		
 		// inverted pyramid rotated by 180 degree
+		/*
+		      *
+		     **
+		    ***
+		   ****
+		
+		*/
 		
 		System.out.println("Set rows:");
 		int rows = sc.nextInt();
